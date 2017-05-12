@@ -1,6 +1,6 @@
 The hostname of your db server node
   ```
-  ip-172-31-23-52  
+   ip-172-31-30-30
   ```
     
 
